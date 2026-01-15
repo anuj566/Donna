@@ -75,8 +75,7 @@ Clone the Repo:
 
 Bash
 
-git clone https://github.com/Anuj/Donna-V7-Ultimate.git
-Open in Android Studio: Load the project.
+git clone https://github.com/anuj566/Donna.git
 
 Build & Run: Install the APK on your device.
 
